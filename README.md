@@ -6,7 +6,7 @@ for this you need hping3
 and tshark
 
 you can download it by firing command in terminal:
-    apt install hping3
+    apt install hping3,
     apt install tshark
     
 hipng3 is a dos tool, this tool makes it easy to use 
